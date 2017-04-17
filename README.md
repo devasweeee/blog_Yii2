@@ -29,5 +29,3 @@ php yii migrate
 Логин: demoadmin
 
 Пароль: demoadmin
-
-"фывфыв"
